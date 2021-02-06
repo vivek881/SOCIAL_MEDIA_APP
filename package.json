@@ -17,9 +17,17 @@
   },
   "homepage": "https://github.com/vivek881/SOCIAL_MEDIA_APP#readme",
   "dependencies": {
+    "connect-mongo": "^3.2.0",
+    "cookie-parser": "^1.4.5",
+    "crypto": "^1.0.1",
     "ejs": "^3.1.5",
     "express": "^4.17.1",
-    "node": "^15.7.0"
+    "express-session": "^1.17.1",
+    "mongoose": "^5.11.15",
+    "node": "^15.7.0",
+    "passport": "^0.4.1",
+    "passport-google-oauth": "^2.0.0",
+    "passport-local": "^1.0.0"
   },
   "devDependencies": {},
   "keywords": []
